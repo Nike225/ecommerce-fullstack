@@ -162,7 +162,3 @@ ecommerce-fullstack/
 - Migrate SQLite to PostgreSQL for production  
 - CI/CD setup with GitHub Actions  
 
----
-
-## License
-This project is open-source under the **MIT License**.
